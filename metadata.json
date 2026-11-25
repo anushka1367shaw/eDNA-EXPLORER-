@@ -1,0 +1,8 @@
+{
+  "name": "eDNA Explorer",
+  "description": "Identify taxonomic groups and assess biodiversity from environmental DNA datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
